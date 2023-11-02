@@ -33,6 +33,10 @@ Additionally, at the end of each step you will find a link to some online platfo
 
 ### Syntax settings
 
+```npm
+npm i socket.io
+```
+
 In the Node.js world, there are two ways to import modules:
 
 - the standard way: ECMAScript modules (or ESM)
